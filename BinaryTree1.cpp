@@ -1,5 +1,3 @@
-//Except for Pair class, everything is in order and working correctly!
-
 #include<iostream>
 #include<queue>
 #include<climits>
